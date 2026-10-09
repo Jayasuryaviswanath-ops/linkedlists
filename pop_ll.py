@@ -55,4 +55,4 @@ my_list.print_linkedlist()
 
 my_list.pop()
 
-my_list.print_linkedlist()
+my_list.print_linkedlist()# pop method
