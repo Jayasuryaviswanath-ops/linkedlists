@@ -12,4 +12,4 @@ class linkedlist:
 
 node1 = linkedlist(2)
 
-print(node1.head.value)
+print(node1.head.value)# main class
