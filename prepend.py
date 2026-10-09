@@ -60,4 +60,4 @@ my_list = linkedlist(4)  # Starts with [4]
 my_list.append(5)        # Adds 5 -> [4, 5]
 my_list.append(6)        # Adds 6 -> [4, 5, 6]
 
-my_list.print_linkedlist()
+my_list.print_linkedlist()# prepend method
