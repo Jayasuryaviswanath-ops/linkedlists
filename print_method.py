@@ -2,4 +2,4 @@ def print_linkedlist(self):
     temp = self.head
     while temp:
         print(temp.value)
-        temp = temp.next
+        temp = temp.next# print_list method
